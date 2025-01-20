@@ -1,6 +1,5 @@
-opencv-python
 streamlit
-opencv-python
+opencv_contrib_python
 ultralytics
 pytesseract
 python-dateutil
