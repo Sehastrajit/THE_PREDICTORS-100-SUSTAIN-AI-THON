@@ -17,7 +17,7 @@ class RecyclingDetectorWithSessions:
     }
     
     def __init__(self):
-        self.yolo_model = YOLO('best.pt')
+        self.yolo_model = YOLO('model/best.pt')
         self.setup_tesseract()
         self.required_readings = 2  # Reduced from 4
         self.min_confidence_ratio = 0.6  # Reduced from 0.75
