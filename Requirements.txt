@@ -1,6 +1,9 @@
-torch==2.0.1
-torchvision==0.15.2
-transformers==4.37.2
-tiktoken==0.6.0
-verovio==4.3.1
-accelerate==0.28.0
+streamlit==1.32.0
+opencv-python==4.9.0.80
+ultralytics==8.1.28
+pytesseract==0.3.10
+python-dateutil==2.8.2
+numpy>=1.22.0
+Pillow>=10.0.0
+torch>=2.0.0
+torchvision>=0.15.0
