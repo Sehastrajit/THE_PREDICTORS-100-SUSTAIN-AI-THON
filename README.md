@@ -44,19 +44,20 @@ Ensure Tesseract-OCR is installed. Use one of the following paths for configurat
    - Click the "Start Scanning" button to begin detecting recyclable items.
    - The application captures serial numbers and classifies materials dynamically.
 
-## Example Output
-
-Below is an example of the detected serial number and material classification:
-
-![Detected Serial Output](Outputs/op1.jpg)
-
-
 4. **Stop Scanning**:
    Click the "Stop Scanning" button to halt the scanning process.
 
 5. **Generate Receipt**:
    - Click "End Session & Print Receipt" to view a summary of scanned items.
    - Optionally start a new session to reset the scanned items.
+
+
+## Example Output
+
+Below is an example of the detected serial number and material classification:
+
+![Detected Serial Output](Outputs/op1.jpg)
+
 
 ## Material Categories
 | Material Type | Code | Deposit Value (Euro Cents) |
