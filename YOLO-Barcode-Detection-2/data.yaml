@@ -1,0 +1,12 @@
+names:
+- Barcode
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: yolo-barcode-detection-ctau6
+  url: https://universe.roboflow.com/yjj-sxvmn/yolo-barcode-detection-ctau6/dataset/2
+  version: 2
+  workspace: yjj-sxvmn
+test: ../test/images
+train: ../train/images
+val: ../valid/images
